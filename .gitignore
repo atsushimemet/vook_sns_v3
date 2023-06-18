@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+local_config.py
+local_config_vook.py
+instaapi/kgt-insta-analysis-d3e74791725f.json
+instaapi/instagram-insght-vook-dd85f5af7f10.json
+.DS_Store
+*.csv
